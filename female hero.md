@@ -1,6 +1,5 @@
-Crystal Maiden
-
-Lina
+1. Crystal Maiden
+2. Lina
 Drow Ranger
 Enchantress
 Death Prophet
